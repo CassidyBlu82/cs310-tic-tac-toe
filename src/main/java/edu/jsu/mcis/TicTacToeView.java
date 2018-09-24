@@ -43,9 +43,9 @@ public class TicTacToeView {
         /* INSERT YOUR CODE HERE */
 
         if (model.isXTurn() ) {
-            System.out.println("Player 1 (X) Move: " + "/nEnter the row and column numbers, separated by a space:");
+            System.out.println("Player 1 (X) Move: " + "\nEnter the row and column numbers, separated by a space:");
         } else {
-            System.out.println("Player 2 (O) Move: " + "/nEnter the row and column numbers, separated by a space:");
+            System.out.println("Player 2 (O) Move: " + "\nEnter the row and column numbers, separated by a space:");
         }
     }
 
